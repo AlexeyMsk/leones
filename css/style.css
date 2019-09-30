@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: yellow;
+	font-size: 16px;
+}
+
+#contenedor {
+	background-color: black;
+	min-height: 150px;
+	margin: 0 auto;
+}
+
+#cabecera{
+	text-align: center;
+	background-color: white;
+	min-height: 20px;
+	font-family: 'Mansalva';
+}
+
+#contenedor h1 {
+	color: yellow;
+	font-family: 'Mansalva', cursive;
+	font-size: 2em;
+	text-align: center;
+}
+
+#contenedor h2 {
+	color: white;
+	font-family: 'Mansalva', cursive;
+	font-size: 2em;	
+	text-align: center;
+}
+
+.fas {
+	color: white;
+	font-size: 15px;
+	margin: 5px;
+}
+
+.parrafo{
+	border: black solid;
+	margin:3em;
+}
+
+li{
+	margin:2em;
+}
+
+#lista{
+	border: black solid;
+
+}
+
+img{
+	margin: 250px;
+	border: black solid;
+}
+
+.egt{
+	font-family: 'Mansalva';
+	margin: 0 auto;
+}
+
+.fas{
+	color: black;
+	font-size: 20px;
+}
+
+p{
+	font-family: 'Mansalva';
+}
+
+li{
+	font-family: 'Mansalva';
+}
+
+a{
+	text-decoration: none;
+}
